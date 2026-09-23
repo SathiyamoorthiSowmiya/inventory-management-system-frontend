@@ -2,6 +2,12 @@
 
 React frontend for a full-stack MERN inventory management application.
 
+📦 **Live App**: https://inventory-managements-system.netlify.app/
+🔗 **Live API**: https://inventory-management-system-backend-wm6i.onrender.com
+💻 **Backend Repo**: https://github.com/SathiyamoorthiSowmiya/inventory-management-system-backend-
+
+> Backend is hosted on Render's free tier — the server sleeps after inactivity, so the first load after a while may take 30-50s while it wakes up.
+
 ## Tech Stack
 
 - React (Vite)
