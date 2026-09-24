@@ -2,7 +2,7 @@
 
 React frontend for a full-stack MERN inventory management application.
 
-📦 **Live App**: https://inventory-managements-system.netlify.app/
+📦 **Live App**: https://inventory-management-system-fronten-lemon.vercel.app/
 🔗 **Live API**: https://inventory-management-system-backend-wm6i.onrender.com
 💻 **Backend Repo**: https://github.com/SathiyamoorthiSowmiya/inventory-management-system-backend-
 
